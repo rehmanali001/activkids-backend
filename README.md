@@ -10,8 +10,10 @@ $ `git clone https://github.com/rehmanali001/activkids-backend.git`
 
 Run the migrations
 
-$ `rails db:create` 
+$ `rails db:create`
+
 $ `rails db:migrate` 
+
 $ `rails db:seed` 
 
 
