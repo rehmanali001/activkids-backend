@@ -1,24 +1,21 @@
-# README
+# ActivKids API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a backend application database for the ActivKids application.
 
-Things you may want to cover:
+# Installation
 
-* Ruby version
+To use this app, clone down the repository in terminal:
 
-* System dependencies
+$ `git clone https://github.com/rehmanali001/activkids-backend.git`
 
-* Configuration
+Run the migrations
 
-* Database creation
+$ `rails db:create` 
+$ `rails db:migrate` 
+$ `rails db:seed` 
 
-* Database initialization
 
-* How to run the test suite
+Next, run the server 
 
-* Services (job queues, cache servers, search engines, etc.)
+$ `rails s -p 3001` 
 
-* Deployment instructions
-
-* ...
