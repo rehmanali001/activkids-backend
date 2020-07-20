@@ -1,4 +1,4 @@
-# ActivKids API
+# ActivKids backend
 
 This is a backend application database for the ActivKids application.
 
@@ -21,3 +21,6 @@ Next, run the server
 
 $ `rails s -p 3001` 
 
+Now, run the app with the frontend application 
+
+`https://github.com/rehmanali001/activkids-frontend`
