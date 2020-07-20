@@ -21,6 +21,4 @@ Next, run the server
 
 $ `rails s -p 3001` 
 
-Now, run the app with the frontend application 
-
-[activkids-frontend](https://github.com/rehmanali001/activkids-frontend)
+Now, run the app with the frontend application [activkids-frontend](https://github.com/rehmanali001/activkids-frontend)
