@@ -23,4 +23,4 @@ $ `rails s -p 3001`
 
 Now, run the app with the frontend application 
 
-`https://github.com/rehmanali001/activkids-frontend`
+https://github.com/rehmanali001/activkids-frontend
