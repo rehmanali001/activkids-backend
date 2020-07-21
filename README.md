@@ -1,6 +1,6 @@
 # ActivKids backend
 
-This is a backend application database for the ActivKids application.
+This is a Ruby on Rails api backend for the ActivKids application.
 
 # Installation
 
